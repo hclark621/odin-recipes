@@ -1,0 +1,13 @@
+/* style.css */
+
+.heading {
+    color: red;
+    background-color: black;
+}
+
+.my.list {
+    color:aqua;
+    background-color: beige;
+    font-size: 20px;
+    text-align: center;
+}
